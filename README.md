@@ -18,8 +18,12 @@ List of frameworks/tools that you can use.
 
 ### Javascript front-end
 * [VueJS](https://vuejs.org/)
+  * [NuxtJS](https://nuxtjs.org)
 * [ReactJS](https://reactjs.org)
+  * [NextJS](https://nextjs.org)
 * [Angular](https://angular.io/)
+* [Svelte](https://svelte.dev)
+  * [SvelteKit](https://kit.svelte.dev)
 
 ### Javascript for Desktop
 * [Electron](https://www.electronjs.org/)
